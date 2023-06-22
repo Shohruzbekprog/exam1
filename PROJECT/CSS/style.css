@@ -529,7 +529,8 @@ background: white;
 }
 
 .btn-con {
-  margin: 350px;
+  margin-top: 350px;
+  margin-bottom: 60px;
   display: inline-flex;
   padding: 15px 40px;
   justify-content: flex-end;
@@ -544,7 +545,7 @@ background: white;
 background-color: #16697A;
 display: flex;
 justify-content: space-between;
-padding: 0 195px 37px 195px;
+padding: 30px 95px 37px 195px;
 color: white
 }
 
